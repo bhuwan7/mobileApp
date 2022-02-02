@@ -32,7 +32,7 @@ body{
     /* background-blend-mode: soft-light; */
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-blend-mode */
 
-    background-image: url(../img/bk.JPG);
+    background-image: url(../img/bk.jpg);
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-image */
     background-size: cover;
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-size */
